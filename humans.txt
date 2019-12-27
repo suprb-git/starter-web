@@ -9,6 +9,7 @@
 
     APJ abdul Kalam
     Narendra Modi
+    Sachin Tendulkar
 
 # TECHNOLOGY COLOPHON
 
