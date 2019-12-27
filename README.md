@@ -14,3 +14,10 @@ Editing for verify the comparison
 
 ##  Planning
 Planning for compare again
+
+## Adding
+Adding few more lines
+
+## Appending
+
+Appending the files
