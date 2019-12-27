@@ -12,6 +12,7 @@
     Sachin Tendulkar
     Amit Shah
     Rahul Gandhi
+    Sonia Gandhi
 
 # TECHNOLOGY COLOPHON
 
