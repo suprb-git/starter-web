@@ -13,3 +13,4 @@
 
     HTML5, CSS5, Angular
     jQuery, Modernizr, AJAX
+    DevOPS, Java programming
