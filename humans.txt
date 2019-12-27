@@ -13,4 +13,4 @@
 
     HTML5, CSS5, Angular
     jQuery, Modernizr, AJAX
-    machine learning, GCP,AWS
+    DevOPS, Java programming
